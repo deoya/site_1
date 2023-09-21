@@ -286,14 +286,14 @@ menu a {
 .pg2_txt > small:nth-of-type(2) {
   display: block;
   font-size:14px;
-  margin-top:15px;
+  margin:15px 10px 0 0;
   font-family: 'omyu_pretty';
   text-align: right;
 }
 .pg2_txt > small:last-of-type {
   display: inline-block;
   margin-top: 20px;
-  margin-right:-130px;
+  margin-right:-110px;
   font-size: 14px;
   font-family: 'omyu_pretty';
   text-align: right;
